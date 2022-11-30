@@ -1,3 +1,31 @@
+
+     @import "https://unpkg.com/open-props";
+html {
+  
+     background-image: var(--gradient-8);
+}
 body {
   font-family: sans-serif;
+  display: grid;
+  justify-content: center;
+
+
+color: hsl(120deg 50% 90%);
+
+}
+
+p {
+
+color: hsl(120deg 50% 90%);
+
+font-weight: light; }
+a { color: hsl(240deg 50% 60%); }
+
+ul {
+	padding-left: 0;
+	list-style: none;
+}
+
+footer {
+font-size: 0.5rem;
 }

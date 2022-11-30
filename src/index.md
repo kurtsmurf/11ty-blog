@@ -1,9 +1,9 @@
 ---
 title: Hello World
-layout: "base.njk"
+layout: "base.html"
 ---
 
-Hey there world, how are ya?
+Hey there world, how are you?
 
 {% for post in collections.posts %}
 
