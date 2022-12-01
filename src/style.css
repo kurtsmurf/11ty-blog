@@ -7,7 +7,7 @@ html {
 body {
   font-family: sans-serif;
   display: grid;
-  justify-content: center;
+  place-content: center;
 
 
 color: hsl(120deg 50% 90%);
@@ -19,7 +19,7 @@ p {
 color: hsl(120deg 50% 90%);
 
 font-weight: light; }
-a { color: hsl(240deg 50% 60%); }
+a { color: inherit; }
 
 ul {
 	padding-left: 0;
