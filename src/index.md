@@ -3,7 +3,7 @@ title: Hello World
 layout: "base.html"
 ---
 
-Hey there world, how are you?
+How the hell are you?
 
 {% for post in collections.posts %}
 
